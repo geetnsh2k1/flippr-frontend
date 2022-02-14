@@ -19,8 +19,6 @@ It utilizes the Django's REST framework to generate an API containing the detail
 
 ![6](/markdown/6.png)
 
-![7](/markdown/7.png)
-
 ![8](/markdown/8.png)
 
 ![9](/markdown/9.png)
